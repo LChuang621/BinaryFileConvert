@@ -1,0 +1,6 @@
+/.idea/
+/venv/
+/generate/
+__pycache__/
+/data/
+/build*/
